@@ -1,5 +1,3 @@
-# Portfólio de Jean Carlos
-
 ## Sobre
 
 Meu nome é Jean Carlos e sou um Engenheiro de Software com foco em desenvolvimento FrontEnd. Este portfólio foi criado para destacar alguns dos projetos em que trabalhei e compartilhar meu conhecimento e habilidades.
