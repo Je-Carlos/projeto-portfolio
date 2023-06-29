@@ -6,6 +6,7 @@ Meu nome é Jean Carlos e sou um Engenheiro de Software com foco em desenvolvime
 
 - HTML
 - CSS
+- JavaScript
 - Git
 
 ## Projetos Destacados
